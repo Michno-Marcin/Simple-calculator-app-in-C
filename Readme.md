@@ -1,6 +1,6 @@
 # Simple-calculator-app-in-C
 
-This is simple calculator app written in C# language.
-To check how it works you can just load "Calculator.sln" project and run (default) "Form1.cs" script.
-
-"Martz90-Hex-Calculator" in main folder is default icon of the runned app.
+This is a simple calculator app written in C# language.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d70252db-1a8d-4f48-9a5e-f2332f9393b2" width="30%" height="30%"/>
+</p> 
